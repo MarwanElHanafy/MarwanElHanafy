@@ -9,10 +9,10 @@ Currently seeking a thesis in applied machine learning, NLP/LLMs, or predictive 
 
 ## Featured projects
 
-- **[GARCH Volatility Modeling of Bitcoin](#)** — GARCH(1,1) with Student-t innovations fitted to 13 years of BTC log-returns; validated via Ljung-Box tests and rolling one-step-ahead forecasts.
-- **[Bike-Share Demand Prediction](#)** — Compared 8 classifiers for imbalanced demand-spike prediction; best model (AdaBoost) achieved F1=0.811.
-- **[Distributed Reddit Data Pipeline](#)** — Spark/HDFS pipeline on a 19.6GB, 3.8M-post dataset; scalability experiments benchmarked against Amdahl's Law.
-- **[E-Commerce Database Design](#)** — Relational schema design, query optimization, and indexing analysis (B-Tree vs. Hash).
+- **[GARCH Volatility Modeling of Bitcoin](https://github.com/MarwanElHanafy/bitcoin-garch-volatility)** — GARCH(1,1) with Student-t innovations fitted to 13 years of BTC log-returns; validated via Ljung-Box tests and rolling one-step-ahead forecasts.
+- **[Bike-Share Demand Prediction](https://github.com/MarwanElHanafy/bike-share-demand-prediction)** — Compared 8 classifiers for imbalanced demand-spike prediction; best model (AdaBoost) achieved F1=0.811.
+- **[Distributed Reddit Data Pipeline](https://github.com/MarwanElHanafy/reddit-spark-pipeline)** — Spark/HDFS pipeline on a 19.6GB, 3.8M-post dataset; scalability experiments benchmarked against Amdahl's Law.
+- **[E-Commerce Database Design](https://github.com/MarwanElHanafy/ecommerce-database-design)** — Relational schema design, query optimization, and indexing analysis (B-Tree vs. Hash).
 
 ## Coursework
 
