@@ -5,7 +5,7 @@ Currently seeking a thesis in applied machine learning, NLP/LLMs, or predictive 
 
 +3 years of industrial experience in data science — credit scoring, churn prediction, and customer segmentation — at two of the biggest startups in Egypt in the Fintech and Loyalty Programs fields. 
 
-📄 [CV](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto) · ✉️ marwan.tawfeek.6440@student.uu.se · 🔗 [LinkedIn](https://www.linkedin.com/in/marwan-tawfeek-60b56319a/)
+📄 [CV]([https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto](https://drive.google.com/file/d/1rS1wd-vdrCkQ1pFsE5ucObf7AdjaGZC4/view?usp=sharing)) · ✉️ marwan.tawfeek.6440@student.uu.se · 🔗 [LinkedIn](https://www.linkedin.com/in/marwan-tawfeek-60b56319a/)
 
 ## Featured projects
 
